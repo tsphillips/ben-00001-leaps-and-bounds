@@ -1,0 +1,14 @@
+#summary This page should somehow host or point to the latest good build of the game.
+
+= Introduction =
+
+Add your content here.
+CONTENT
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
