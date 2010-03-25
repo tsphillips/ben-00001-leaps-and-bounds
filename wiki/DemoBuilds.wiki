@@ -1,6 +1,5 @@
-#summary This page should somehow host or point to the latest good build of the game.
+#summary This page will point to the latest good build of the game.
 
 = Builds =
 
 http://www.bamboobunch.com/demo/LeapsAndBounds.html
-
