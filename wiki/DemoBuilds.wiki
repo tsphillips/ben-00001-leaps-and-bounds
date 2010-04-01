@@ -2,11 +2,14 @@
 
 = Current Build =
 
-http://www.bamboobunch.com/demo/LeapsAndBounds-2010-03-26-17-44.html
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-01-12-01.html
 
+Fixed performance summary to display average response time instead of total response time.
 
 
 = Older versions =
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-03-26-17-44.html
 
 http://www.bamboobunch.com/demo/LeapsAndBounds-2010-03-25-16-37.html
 
