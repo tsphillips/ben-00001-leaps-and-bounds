@@ -2,7 +2,7 @@
 
 = Current Build =
 
-http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-08-14-13.html
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-08-15-40.html
 
 Added fantastic reward thingy to end of night cloud area - fantasticity scales with how many the player got correct.
 
