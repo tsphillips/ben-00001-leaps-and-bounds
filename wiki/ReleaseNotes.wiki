@@ -1,0 +1,7 @@
+#summary Leaps and Bounds release notes
+
+= How to use the game =
+
+Go to the wiki tab and open the DemoBuilds page.
+Click on the link for the most recent build. (Install the Unity plug-in if necessary.)
+After the game loads, make you choice from the main menu page. 
