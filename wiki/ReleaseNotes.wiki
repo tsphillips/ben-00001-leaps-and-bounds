@@ -2,9 +2,40 @@
 
 = How to use the game =
 
-Go to the wiki tab and open the DemoBuilds page.<br>
-Click on the link for the most recent build. (Install the Unity plug-in if necessary.)<br>
-After the game loads, make you choice from the main menu page.<br>
-"Start" starts the game.<br>
-Choose which environment you would like to play in.<br>
-At the end of a trial you will have a choice to return to the main menu, start again and choose a different scene.
+= What's New =
+
+Leaps and Bounds version 2010.04.12.10 is built using the Unity game development tool and runs on all browsers that have the Unity Web Player plugin installed.
+
+	Changes in 2010.04.12.10 
+
+	•	Version numbers are now visible on the loading screen.
+
+= System Requirements =
+
+	You MUST first download and install the Unity Web Player, available here: http://unity3d.com/webplayer/
+
+	Operating Systems
+
+	•	Windows 2000/XP/Vista/7<br>
+	•	Mac OS X 10.3.9 or newer.
+	
+	Supported Browsers
+
+	•	IE, Firefox, Safari, Google Chrome
+
+= Download =
+
+	Leaps and Bounds can be downloaded at this link: http://code.google.com/p/ben-00001-leaps-and-bounds/wiki/DemoBuilds 
+
+= Playing =
+
+1. Wait for the game to finish loading.
+2. From the main menu, "Start" will begin the game. "Instructions" will tell the player how to control the game. "Credits" will display the names of the people involved in creating Leaps and Bounds.<br>
+3. After clicking "Start", choose which environment you want to play in ("Basic", "Campus", "Night Sky") by clicking on the appropriate image.
+4. Once the environment loads, click on the green Play button to begin the trial.<br>
+5. Press the left or right arrow keys to choose which object is described by the target word. <br>
+6. At the end of a trial, you may choose to redo the trial or return to the main menu and pick a different environment. 
+
+= Troubleshooting =
+
+	When submitting a problem, please send it to benxingentertainment@gmail.com. Include the build number, visible on Iris's main menu and loading screen. 
