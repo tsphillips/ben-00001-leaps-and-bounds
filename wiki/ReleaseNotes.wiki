@@ -30,7 +30,7 @@ Leaps and Bounds version 2010.04.16.15 is built using the Unity game development
 
 = Playing =
 
-1. Wait for the game to finish loading.
+1. Wait for the game to finish loading.<br>
 2. From the main menu, choosing "Start" will begin the game. "Instructions" will tell the player how to control the game. "Credits" will display the names of the people involved in creating Leaps and Bounds.<br>
 3. After clicking "Start", choose which environment you want to play in ("Basic", "Campus", "Night Sky") by clicking on the matching image. Players can choose to return to the main menu from any environment by clicking on the menu button in the lower right hand corner.<br>
 4. Once the environment loads, click on the green Play button to begin the trial. There is no time limit for picking each option, but players should still try to go through each trial quickly and accurately.<br>
