@@ -21,21 +21,21 @@ Leaps and Bounds version 2010.04.12.10 is built using the Unity game development
 	
 	Supported Browsers
 
-	•	IE, Firefox, Safari, Google Chrome
+	•	Internet Explorer, Firefox, Safari, Google Chrome
 
 = Download =
 
-	Leaps and Bounds can be downloaded at this link: http://code.google.com/p/ben-00001-leaps-and-bounds/wiki/DemoBuilds 
+	Leaps and Bounds can be downloaded at this link: http://code.google.com/p/ben-00001-leaps-and-bounds/wiki/DemoBuilds The topmost link will be the most recently updated version of the game.
 
 = Playing =
 
 1. Wait for the game to finish loading.
 2. From the main menu, "Start" will begin the game. "Instructions" will tell the player how to control the game. "Credits" will display the names of the people involved in creating Leaps and Bounds.<br>
-3. After clicking "Start", choose which environment you want to play in ("Basic", "Campus", "Night Sky") by clicking on the appropriate image.
+3. After clicking "Start", choose which environment you want to play in ("Basic", "Campus", "Night Sky") by clicking on the matching image.
 4. Once the environment loads, click on the green Play button to begin the trial.<br>
-5. Press the left or right arrow keys to choose which object is described by the target word. <br>
-6. At the end of a trial, you may choose to redo the trial or return to the main menu and pick a different environment. 
+5. Press the left or right arrow keys to choose which object is described by the target word. Players may also use the S and K keys to move left and right, respectively.<br>
+6. At the end of a trial, players will see a summary of their performance. From there, they may choose to redo the trial or return to the main menu and pick a different environment. 
 
 = Troubleshooting =
 
-	When submitting a problem, please send it to support@benxing.com. Include the build number, visible on Iris's main menu and loading screen. 
+	When submitting a problem, please send it to support@benxing.com. Include the build number, visible on Iris's main menu and loading screen. If possible, attempt to replicate any bugs and describe in detail what seems to cause it.
