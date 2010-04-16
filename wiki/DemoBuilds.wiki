@@ -2,11 +2,15 @@
 
 = Current Build =
 
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-16-15-40.html
+
+Polish.
+
+= Older versions =
+
 http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-12-10-46.html
 
 Added version number to loading screen.
-
-= Older versions =
 
 http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-08-15-40.html
 
