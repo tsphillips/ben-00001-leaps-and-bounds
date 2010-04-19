@@ -4,6 +4,10 @@
 
 http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-19-16-46.html
 
+Added a settings menu with the option to disable potentially distracting
+background movement in the game. This setting also disables the star burst
+under the player when they get a trial correct.
+
 More polish.
 
 
