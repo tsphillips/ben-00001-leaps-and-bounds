@@ -6,10 +6,10 @@
 
 Leaps and Bounds version 2010.04.16.15 is built using the Unity game development tool and runs on all browsers that have the Unity Web Player plugin installed.
 
-	Changes in 2010.04.16.15
+        Changes in 2010.04.19.16
 
-  A menu button has been added to the lower right hand corner of every environment.<br>
-  New GUI elements have been added.
+        Added the ability to turn off potentially distracting animated elements in the background of the game. The setting is available in the Settings page off the main menu.
+
 
 = System Requirements =
 
@@ -42,6 +42,11 @@ Leaps and Bounds version 2010.04.16.15 is built using the Unity game development
 	When submitting a problem, please send it to support@benxing.com. Include the build number, visible on Iris's main menu and loading screen. If possible, attempt to recreate any bugs and describe in detail what seems to cause it.
 
 = Previous Builds =
+
+Changes in 2010.04.16.15
+
+  A menu button has been added to the lower right hand corner of every environment.<br>
+  New GUI elements have been added.
 
 Changes in 2010.04.12.10 
 
