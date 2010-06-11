@@ -2,6 +2,14 @@
 
 = Current Build =
 
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-06-11-16-48.html
+
+Added tracking and display of average time spent on switching and non-switching trials.
+Note that the response time for the first trial doesn't count toward either statistic.
+
+
+= Older versions =
+
 http://www.bamboobunch.com/demo/LeapsAndBounds-2010-05-27-12-51.html
 
 Put an option in the Settings menu for "Fixed block length". If this is > 1 the
@@ -14,8 +22,7 @@ chooses, they will go through the specified pattern of twenty tests.
 1 single, 2 mixed, 1 single, 2 mixed, 1 single, 2 mixed, 1 single, 2
 mixed]
 
-
-= Older versions =
+---
 
 http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-19-16-46.html
 
