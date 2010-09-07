@@ -2,13 +2,19 @@
 
 = Current Build =
 
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-09-07-10-24.html
+
+Fixed game never loading.
+
+
+= Older versions =
+
 http://www.bamboobunch.com/demo/LeapsAndBounds-2010-06-11-16-48.html
 
 Added tracking and display of average time spent on switching and non-switching trials.
 Note that the response time for the first trial doesn't count toward either statistic.
 
-
-= Older versions =
+---
 
 http://www.bamboobunch.com/demo/LeapsAndBounds-2010-05-27-12-51.html
 
