@@ -1,0 +1,71 @@
+# Current Build #
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-09-07-10-24.html
+
+Fixed game never loading.
+
+
+# Older versions #
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-06-11-16-48.html
+
+Added tracking and display of average time spent on switching and non-switching trials.
+Note that the response time for the first trial doesn't count toward either statistic.
+
+---
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-05-27-12-51.html
+
+Put an option in the Settings menu for "Fixed block length". If this is > 1 the
+player will only have the "Again" option at the end of a block until they've
+completed the specified number or runs through.
+
+Added a "Karbach & Kray mode" in the settings. Whichever environment the player
+chooses, they will go through the specified pattern of twenty tests.
+[Block sequence: 2 single, 2 mixed, 2 single, 2 mixed,
+1 single, 2 mixed, 1 single, 2 mixed, 1 single, 2 mixed, 1 single, 2
+mixed]
+
+---
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-19-16-46.html
+
+Added a settings menu with the option to disable potentially distracting
+background movement in the game. This setting also disables the star burst
+under the player when they get a trial correct.
+
+More polish.
+
+---
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-16-15-40.html
+
+Polish.
+
+---
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-12-10-46.html
+
+Added version number to loading screen.
+
+---
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-08-15-40.html
+
+Added fantastic reward thingy to end of night cloud area - fantasticity scales with how many the player got correct.
+
+Replaced the childish gnome player avatar with a generic all-ages humanoid in all but the campus environment.
+
+---
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-04-01-12-01.html
+
+Fixed performance summary to display average response time instead of total response time.
+
+---
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-03-26-17-44.html
+
+http://www.bamboobunch.com/demo/LeapsAndBounds-2010-03-25-16-37.html
+
+http://www.bamboobunch.com/demo/LeapsAndBounds.html
